@@ -1,3 +1,7 @@
+# Hello world
+
+https://hello2024.streamlit.app/
+
 # 🎈 Blank app template
 
 A simple Streamlit app template for you to modify!
